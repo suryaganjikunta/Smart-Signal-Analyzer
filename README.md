@@ -15,6 +15,36 @@ A practical digital signal processing dashboard built with Python, NumPy, SciPy,
 - Downloadable text analysis report
 - Clean browser-based interface
 
+# 📡 Smart Signal Analyzer
+
+A practical digital signal processing dashboard built with Python, NumPy, SciPy, Matplotlib, Pandas, and Streamlit.
+
+## 🚀 Live Demo
+
+👉 [Open Smart Signal Analyzer](https://cphmxedznzrcoljebzvyv4.streamlit.app/)
+
+## ✨ Features
+
+- Generate sine, square, triangle, chirp, and mixed noisy signals
+
+- Upload a CSV signal for analysis
+
+- Time-domain waveform visualization
+
+- FFT-based frequency spectrum
+
+- Dominant-frequency detection
+
+- Mean, RMS, peak, peak-to-peak, standard deviation, and crest factor
+
+- Low-pass, high-pass, and band-pass filtering
+
+- Original/analyzed signal export
+
+- Downloadable text analysis report
+
+- Clean browser-based interface
+
 ## 🧰 Tech Stack
 
 Python • NumPy • SciPy • Pandas • Matplotlib • Streamlit
